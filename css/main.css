@@ -45,8 +45,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-img {
-    float: left;
-    margin-right: 20px;
-}
