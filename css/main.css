@@ -26,7 +26,7 @@ h1 {
 h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin: 1em auto;
+    margin-top: 1em;
 }
 p {
     font-size: 1.5em;
