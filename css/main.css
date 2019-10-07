@@ -26,12 +26,12 @@ h1 {
 h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin: 0.5em auto;
+    margin: 0em auto;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    margin: 0.5em auto;
+    margin: 0em auto;
     color: #333;
 }
 footer {
