@@ -1,2 +1,4 @@
 name: Emil Khabiboulline
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
