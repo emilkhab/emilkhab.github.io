@@ -1,4 +1,6 @@
 name: Emil Khabiboulline
+title: Emil Khabiboulline
+description: Academic website
 markdown: kramdown
 plugins:
   - jekyll-sitemap
