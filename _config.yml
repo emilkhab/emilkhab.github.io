@@ -1,6 +1,6 @@
 name: Emil Khabiboulline
 title: Emil Khabiboulline
-description: Academic website
+description: I work on theory for quantum computing and quantum many-body physics. In particular, I am interested in communication protocols and thermalization.
 markdown: kramdown
 plugins:
   - jekyll-sitemap
