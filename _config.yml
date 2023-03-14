@@ -1,5 +1,5 @@
 title: "Emil Khabiboulline"
-description: "I'm a PhD student in the Department of Physics at Harvard, working on theory for quantum computing and quantum many-body physics, communication protocols and thermalization in particular, with possible realization on a quantum optics platform."
+description: "Personal and Academic Website"
 markdown: kramdown
 plugins:
   - jekyll-sitemap
